@@ -54,8 +54,8 @@ func ContinueBlockChain(address string) *BlockChain {
 	})
 	Handle(err)
 
-	blockchain := BlockChain{lastHash, db}
-	return &blockchain
+	chain := BlockChain{lastHash, db}
+	return &chain
 }
 
 func InitBlockChain(address string) *BlockChain {
