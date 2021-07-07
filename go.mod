@@ -1,6 +1,6 @@
-module github.com/d3z41k/blockchain-boilerplate
+module github.com/d3z41k/blockchain
 
-go 1.12
+go 1.16
 
 require (
 	github.com/dgraph-io/badger v1.6.1

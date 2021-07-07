@@ -3,8 +3,8 @@ package cli
 import (
 	"flag"
 	"fmt"
-	"github.com/d3z41k/blockchain-boilerplate/blockchain"
-	"github.com/d3z41k/blockchain-boilerplate/wallet"
+	"github.com/d3z41k/blockchain/blockchain"
+	"github.com/d3z41k/blockchain/wallet"
 	"log"
 	"os"
 	"runtime"

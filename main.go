@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/d3z41k/blockchain-boilerplate/cli"
+	"github.com/d3z41k/blockchain/cli"
 	"os"
 )
 
